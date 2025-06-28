@@ -9,7 +9,7 @@
 
 An **Ultra-Silent Stepper Motor Control System** using TMC2209 driver and Arduino Uno for precise direction and stepping control. Features advanced StealthChop2 technology for noise-free operation, high-resolution microstepping, and UART communication for advanced motor control.
 
-![TMC2209 Stepper Motor Driver](https://circuitdigest.com/sites/default/files/projectimage_mic/TMC2209-Stepper-Motor-Driver-Arduino.jpg)
+![TMC2209 Stepper Motor Driver](https://circuitdigest.com/sites/default/files/projectimage_mic/Interfacing-TMC2209-with-Arduino.png)
 
 🚀 Features
 -----------
