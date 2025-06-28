@@ -59,7 +59,7 @@ TMC2209 Pin Connections:
 │ EN         │ D8           │ Enable/Disable Driver │
 │ STEP       │ D9           │ Step Pulse Input      │
 │ DIR        │ D10          │ Direction Control     │
-│ VDD        │ 3.3V         │ Logic Power Supply    │
+│ VDD        │ 5V           │ Logic Power Supply    │
 │ GND        │ GND          │ Common Ground         │
 │ VM         │ 12-24V       │ Motor Power Supply    │
 │ GND        │ Power GND    │ Motor Power Ground    │
